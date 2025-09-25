@@ -7,10 +7,10 @@
     <string name="imagen_de_bienvenida_a_taskmaster">Imagen de bienvenida a TaskMaster</string>
 
     <string name="imgWelcome">ImagenWelcome</string>
-    <string name="hint_usuario">Usuario</string>
-    <string name="hint_contrasena">Contraseña</string>
-    <string name="btn_ingresar">Ingresar</string>
-    <string name="titulo_login">Iniciar Sesión</string>
+    <string name="txtusuario">Usuario</string>
+    <string name="txtcontrasena">Contraseña</string>
+    <string name="btningresar">Ingresar</string>
+    <string name="txtlogin">Iniciar Sesión</string>
 
 
 </resources>

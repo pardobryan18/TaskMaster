@@ -22,9 +22,10 @@
         android:id="@+id/txtDescripcion"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="432dp"
+        android:layout_marginTop="408dp"
         android:text="@string/txtDescripcion"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -41,15 +42,16 @@
 
     <ImageView
         android:id="@+id/imgWelcome"
-        android:layout_width="273dp"
-        android:layout_height="272dp"
+        android:layout_width="250dp"
+        android:layout_height="257dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.289"
-        android:contentDescription="@string/imagen_de_bienvenida_a_taskmaster"
-        app:srcCompat="@drawable/imgbienvenida" />
+        app:layout_constraintVertical_bias="0.232"
+        app:srcCompat="@drawable/imagenwelcome" />
+
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
