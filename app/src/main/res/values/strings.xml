@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">TaskMaster</string>
+    <string name="txtWelcome">Bienvenido a TaskMaster</string>
+    <string name="txtDescripcion">Organiza tus tareas diarias de forma rápida, visual y eficiente. TaskMaster te ayuda a mantener el control de tu día
+</string>
+    <string name="btnComenzar">Comenzar</string>
+    <string name="imagen_de_bienvenida_a_taskmaster">Imagen de bienvenida a TaskMaster</string>
+
+    <string name="imgWelcome">ImagenWelcome</string>
+    <string name="hint_usuario">Usuario</string>
+    <string name="hint_contrasena">Contraseña</string>
+    <string name="btn_ingresar">Ingresar</string>
+    <string name="titulo_login">Iniciar Sesión</string>
+
+
 </resources>
